@@ -1,4 +1,4 @@
-# Adaptive-Visual-Token-Compression-for-Low-Latency-Vision-Language-Inference
+# SwiftVLM :Adaptive-Visual-Token-Compression-for-Low-Latency-Vision-Language-Inference
 
 > **Category:** Efficient Multimodal AI · VLM Inference Optimization · ML Systems  
 > **Goal:** Reduce the number of visual tokens processed by a Vision-Language Model while preserving answer quality and improving latency, memory usage, and throughput.
